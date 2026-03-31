@@ -8,4 +8,4 @@
 
 💞️ I’m looking to collaborate on innovative E-commerce (escrow-based) platforms, logistics apps, or open-source web tools.
 
-📫 Reach me via my portfolio: hhtps://greatpam.vercel.app
+📫 Reach me via my portfolio: https://greatpam.vercel.app
